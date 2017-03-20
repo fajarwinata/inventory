@@ -2,9 +2,9 @@
 Sistem Informasi Inventori Berbasis Web dan penterjemahan kompleks (kecerdasan buatan)
 
 Version 2.2 Windows Version
-Minimum Requirement:
-> Windows xp/vista/7/8/10 (x86/x64)
-> Mozilla Firefox Web Browser/Google Chrome Web Browser
+<br> Minimum Requirement:
+1. Windows xp/vista/7/8/10 (x86/x64)
+2. Mozilla Firefox Web Browser/Google Chrome Web Browser
 
 End User Lisenced Agreement
 Release Note
@@ -29,14 +29,14 @@ sumber kode ini ditempatkan dan digunakan pertama kali oleh PT Indonesia Care (B
 Terimakasih untuk menggunakan perangkat lunak ini.
 
 Installation Instruction:
-> place folder weitech in C:/ Drive on your Windows OS
-> run shortcut Inventory 2.2
-> Enjoy it
+1. place folder weitech in C:/ Drive on your Windows OS
+2. run shortcut Inventory 2.2
+3. Enjoy it
 
 Cara pemasangan:
-> tempatkan folder weitech di drive C:/
-> jalankan shortcut Inventory 2.2
-> Enjoy it
+1. tempatkan folder weitech di drive C:/
+2. jalankan shortcut Inventory 2.2
+3. Enjoy it
 
 Mr. Fajar Winata
-Wei Tech Inc.
+<br>Wei Tech Inc.
